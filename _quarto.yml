@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+lang: en
+website:
+  title: CORA · COMES-UCLM
+  description: Study of the shear response in laminated structures made of composite material
+  navbar:
+    left:
+    - href: index.qmd
+      text: Home
+    - href: project.qmd
+      text: Project
+    - href: work-packages.qmd
+      text: Work packages
+    - href: results.qmd
+      text: Results
+    - href: dissemination.qmd
+      text: Dissemination & transfer
+    - href: team.qmd
+      text: Team
+    - href: impact.qmd
+      text: Funding & impact
+    right:
+    - href: es/index.qmd
+      text: ES
+    search: true
+  page-footer:
+    left: © 2026 COMES · Universidad de Castilla-La Mancha
+    right:
+    - text: UCLM
+      href: https://www.uclm.es/
+    - text: COMES
+      href: https://www.uclm.es/grupos/COMES
+    - text: TRAMES
+      href: https://www.uclm.es/grupos/comes/transferencia/utctrames
+  open-graph: true
+  site-url: https://comes-uclm.github.io/cora/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-after-body: assets/language-nav.html
+execute:
+  freeze: auto

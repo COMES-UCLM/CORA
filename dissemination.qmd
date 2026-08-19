@@ -1,0 +1,27 @@
+---
+title: "Dissemination & transfer"
+lang: en
+toc: true
+---
+```{=html}
+<p class="section-intro">Selected conferences, webinars and transfer forums closely linked to the research line.</p>
+```
+```{=html}
+<div class="timeline">
+<div class="timeline-item"><div class="event-meta">2024</div><h3><a href="https://eccm21.org/">ECCM21 · Nantes</a></h3><p>Two contributions on enhanced pure-shear characterization and buckling/stability using cruciform specimens.</p></div>
+<div class="timeline-item"><div class="event-meta">2025</div><h3><a href="https://www.aemac.org/editado-el-webinarsaemac-no70-de-s-horta-de-uclm/">AEMAC Webinar</a></h3><p>Webinar: “Ensayos biaxiales tracción-compresión con probetas cruciformes y su aplicación a la caracterización de la respuesta a cortadura”.</p></div>
+<div class="timeline-item"><div class="event-meta">2025</div><h3><a href="https://matcomp2025.cimne.com">MATCOMP25 · Barcelona</a></h3><p>Contributions on biaxial buckling, parasitic bending/torsion in standardized tensile tests, and microscale crack initiation and propagation.</p></div>
+<div class="timeline-item"><div class="event-meta">2025</div><h3><a href="https://www.s4industry.eu/">Science for Industry (S4i)</a></h3><p>Technology-transfer presentation/participation by Ayman Berrem Khalid around the biaxial fixture and university–industry collaboration.</p></div>
+<div class="timeline-item"><div class="event-meta">2025</div><h3><a href="https://innocam.castillalamancha.es/presentacion-transformaclm-2025">TransformaCLM 2025</a></h3><p>Participation by Ayman Berrem Khalid in the regional knowledge-transfer fair, connecting the project developments with innovation and industry.</p></div>
+<div class="timeline-item"><div class="event-meta">2026</div><h3><a href="https://www.ntnu.edu/eccm22/">ECCM22 · Oslo</a></h3><p>Three UCLM contributions: shear-state deviation, microscale crack growth, and the biaxial tension–compression fixture for uniaxial machines.</p></div>
+</div>
+```
+## Technology transfer
+
+```{=html}
+<div class="media-row"><div class="media-image"><img src="assets/photos/utility-model-U202532647.png" alt="Utility model application U202532647"></div><div><span class="tag">Utility model application</span><h3>Device for performing biaxial tension-compression tests on a uniaxial machine</h3><p>National utility-model application <strong>U202532647</strong>, received on 30 December 2025. Applicant: Universidad de Castilla-La Mancha. Inventors: María del Carmen Serna Moreno, Sergio Horta Muñoz, Ayman Berrem Khalid and Claudia Llario Alegre. The application is under examination.</p></div></div>
+```
+
+## Standardization
+
+CORA continues the line initiated with **UNE 0074:2023** and provides experimental validation and technical development toward a complete standard. The recommended methodology and its technical basis are summarised in the [associated publication](https://www.scipedia.com/public/Serna_Moreno_et_al_2024a).

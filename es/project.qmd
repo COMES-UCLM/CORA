@@ -1,0 +1,25 @@
+---
+title: "Proyecto"
+subtitle: "Estudio de la respuesta a CORtadurA en estructuras laminares fabricadas con material compuesto"
+lang: es
+toc: true
+---
+
+## Reto de investigación
+
+La resistencia a cortadura de los FRPs sigue siendo una de las propiedades de diseño más difíciles de determinar de forma consistente. CORA avanza en una metodología desarrollada en COMMUL/BISHEAR y formalizada en la **UNE 0074:2023**, basada en un ensayo biaxial tracción–compresión (TC) sobre probetas cruciformes con laminados ±45° simétricos.
+
+El proyecto busca establecer su repetitividad, comparar la respuesta TC con normas habituales, comprender los mecanismos de la respuesta no lineal a cortadura y continuar el camino hacia la normalización completa.
+
+## Objetivos principales
+```{=html}
+<div class="card-grid"><div class="card"><h3>Accesibilidad y repetitividad</h3><p>Desarrollar un dispositivo para ensayos TC en máquinas uniaxiales y verificar la repetitividad en distintos sistemas de ensayo.</p></div><div class="card"><h3>Comparación con normas</h3><p>Contrastar TC frente a tracción ±45°, Iosipescu y V-notched rail shear, con especial atención a grandes deformaciones y resistencia a cortadura.</p></div><div class="card"><h3>Interpretación numérica</h3><p>Usar modelos de daño progresivo y microescala para conectar respuesta aparente, microdaño, plastificación de matriz y reorientación de fibras.</p></div><div class="card"><h3>Normalización</h3><p>Validar la UNE 0074:2023 y generar la base técnica necesaria para avanzar hacia una norma completa.</p></div></div>
+```
+
+## Contexto y continuidad
+
+La investigación se desarrolla dentro de la línea de COMES sobre caracterización experimental y numérica de materiales compuestos, con continuidad desde COMMUL y BISHEAR y conexiones directas con RENO/CORA.
+
+```{=html}
+<div class="media-row"><div class="media-image"><img src="../assets/photos/une-biaxial.jpg" alt="TC shear test"></div><div><h3>Ensayo TC con probeta cruciforme</h3><p>El estado tracción–compresión de igual magnitud aplicado a laminados ±45° simétricos permite estudiar la respuesta a cortadura en las direcciones principales del material, manteniendo la región de interés alejada de las zonas de agarre.</p><p><a href="https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma?c=N0071374">UNE 0074:2023 →</a></p></div></div>
+```

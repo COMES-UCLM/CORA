@@ -1,0 +1,36 @@
+---
+title: "Financiación e impacto"
+lang: es
+toc: true
+---
+## Entidades financiadoras / convocatoria
+```{=html}
+<div class="logo-strip funding-strip">
+<a class="logo-box" href="https://www.castillalamancha.es/" target="_blank" rel="noopener"><img src="../assets/logos/jccm.png" alt="jccm logo"></a>
+<a class="logo-box" href="https://innocam.castillalamancha.es/presentacion-transformaclm-2025" target="_blank" rel="noopener"><img src="../assets/logos/innocam.png" alt="innocam logo"></a>
+<a class="logo-box" href="https://fondoseuropeos.gob.es/es-es/fondosprogramas/feder/Paginas/feder.aspx" target="_blank" rel="noopener"><img src="../assets/logos/feder.png" alt="feder logo"></a>
+</div>
+```
+```{=html}
+<p class="logo-note">Proyecto regional apoyado por la Junta de Comunidades de Castilla-La Mancha / INNOCAM y cofinanciado por el Fondo Europeo de Desarrollo Regional (FEDER).</p>
+```
+
+## Impacto esperado
+```{=html}
+<div class="impact-grid"><div class="impact-card"><h3>Mejores datos de diseño</h3><p>Una curva no lineal a cortadura pura y una resistencia más fiables mejoran las predicciones analíticas y por elementos finitos.</p></div><div class="impact-card"><h3>Normalización</h3><p>La evidencia experimental apoya la validación y evolución de la UNE 0074:2023 y su adopción más amplia.</p></div><div class="impact-card"><h3>Ensayo accesible</h3><p>El dispositivo para máquina uniaxial reduce una importante barrera de equipamiento para el ensayo TC.</p></div><div class="impact-card"><h3>Capacidad regional</h3><p>La nueva infraestructura biaxial en INAIA refuerza las capacidades de ensayo, formación y colaboración en Castilla-La Mancha.</p></div></div>
+```
+
+```{=html}
+<div class="callout-impact"><h2>Del ensayo al diseño</h2><p>El hilo común de la línea es reducir incertidumbre experimental y convertirla en propiedades más fiables para diseño, simulación predictiva, normalización y transferencia.</p></div>
+```
+
+## Instituciones
+```{=html}
+<div class="logo-strip">
+<a class="logo-box" href="https://www.uclm.es/" target="_blank" rel="noopener"><img src="../assets/logos/uclm.png" alt="uclm logo"></a>
+<a class="logo-box" href="https://www.uclm.es/toledo/eiia" target="_blank" rel="noopener"><img src="../assets/logos/eiia.png" alt="eiia logo"></a>
+<a class="logo-box" href="https://uclm-inaia.github.io/" target="_blank" rel="noopener"><img src="../assets/logos/inaia.png" alt="inaia logo"></a>
+<a class="logo-box" href="https://www.uclm.es/grupos/COMES" target="_blank" rel="noopener"><img src="../assets/logos/comes.png" alt="comes logo"></a>
+<a class="logo-box" href="https://www.uclm.es/grupos/comes/transferencia/utctrames" target="_blank" rel="noopener"><img src="../assets/logos/trames.png" alt="trames logo"></a>
+</div>
+```

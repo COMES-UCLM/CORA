@@ -1,0 +1,12 @@
+---
+title: "Paquetes de trabajo"
+lang: es
+toc: true
+---
+```{=html}
+<p class="section-intro">Estructura de trabajo definida en la memoria científica del proyecto.</p><div class="wp-grid"><div class="wp-card"><span class="tag">PT1</span><h3>Caracterización experimental</h3><p>Dispositivo TC para máquinas uniaxiales; repetitividad en distintos equipos; campañas de ensayos normalizados; comparación cuantitativa entre TC y métodos estándar.</p></div><div class="wp-card"><span class="tag">PT2</span><h3>Simulación numérica</h3><p>Modelado mesoescala de daño progresivo y RVEs micromecánicos con interfaces cohesivas, no linealidad de matriz y evolución de grietas con XFEM.</p></div><div class="wp-card"><span class="tag">PT3</span><h3>Proceso de normalización</h3><p>Validación de la Especificación UNE 0074:2023 y desarrollo del documento normativo asociado hacia la normalización completa.</p></div></div>
+```
+## Métodos y herramientas
+```{=html}
+<div class="media-row"><div class="media-image"><img src="../assets/photos/dic-biaxial.jpg" alt="DIC biaxial test"></div><div><h3>Experimental mechanics</h3><p>Ensayos cuasi-estáticos, probetas cruciformes, extensometría y correlación digital de imagen para medir campos completos de desplazamiento y deformación.</p></div></div><div class="media-row reverse"><div class="media-image"><img src="../assets/photos/rve-damage.jpg" alt="RVE numerical model"></div><div><h3>Modelado numérico</h3><p>ABAQUS/FEM, modelos mesoescala de daño progresivo, micromecánica, homogeneización, interfaces cohesivas y XFEM.</p></div></div>
+```

@@ -1,0 +1,18 @@
+---
+title: "Team"
+lang: en
+toc: true
+---
+```{=html}
+<div class="team-grid"><div class="person-card"><div class="role">Principal Investigator</div><h3>María del Carmen Serna Moreno</h3><p>UCLM · COMES / EIIA-To / INAIA. Experimental mechanics, biaxial testing and composite characterization.</p></div><div class="person-card"><div class="role">Principal Investigator</div><h3>Juan José López Cela</h3><p>UCLM · COMES. Continuum mechanics, computational modelling and structural mechanics.</p></div><div class="person-card"><div class="role">Research team</div><h3>Sergio Horta Muñoz</h3><p>UCLM · COMES / EIIA-To / INAIA. Multiaxial testing, progressive damage and micromechanical modelling.</p></div><div class="person-card"><div class="role">Research team</div><h3>José Luis Curiel-Sosa</h3><p>University of Sheffield · computational mechanics, fracture and damage of composite structures.</p></div><div class="person-card"><div class="role">Project line researcher</div><h3>Ayman Berrem Khalid</h3><p>UCLM · COMES / INAIA. Device development, biaxial testing, DIC and technology-transfer activities.</p></div></div>
+```
+## Affiliated institutions
+```{=html}
+<div class="logo-strip">
+<a class="logo-box" href="https://www.uclm.es/" target="_blank" rel="noopener"><img src="assets/logos/uclm.png" alt="uclm logo"></a>
+<a class="logo-box" href="https://www.uclm.es/toledo/eiia" target="_blank" rel="noopener"><img src="assets/logos/eiia.png" alt="eiia logo"></a>
+<a class="logo-box" href="https://uclm-inaia.github.io/" target="_blank" rel="noopener"><img src="assets/logos/inaia.png" alt="inaia logo"></a>
+<a class="logo-box" href="https://www.uclm.es/grupos/COMES" target="_blank" rel="noopener"><img src="assets/logos/comes.png" alt="comes logo"></a>
+<a class="logo-box" href="https://www.uclm.es/grupos/comes/transferencia/utctrames" target="_blank" rel="noopener"><img src="assets/logos/trames.png" alt="trames logo"></a>
+</div>
+```

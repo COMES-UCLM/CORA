@@ -1,0 +1,27 @@
+---
+title: "Difusión y transferencia"
+lang: es
+toc: true
+---
+```{=html}
+<p class="section-intro">Selección de congresos, webinars y foros de transferencia especialmente ligados a la línea de investigación.</p>
+```
+```{=html}
+<div class="timeline">
+<div class="timeline-item"><div class="event-meta">2024</div><h3><a href="https://eccm21.org/">ECCM21 · Nantes</a></h3><p>Dos contribuciones sobre caracterización mejorada a cortadura pura y pandeo/estabilidad con probetas cruciformes.</p></div>
+<div class="timeline-item"><div class="event-meta">2025</div><h3><a href="https://www.aemac.org/editado-el-webinarsaemac-no70-de-s-horta-de-uclm/">AEMAC Webinar</a></h3><p>Webinar: «Ensayos biaxiales tracción-compresión con probetas cruciformes y su aplicación a la caracterización de la respuesta a cortadura».</p></div>
+<div class="timeline-item"><div class="event-meta">2025</div><h3><a href="https://matcomp2025.cimne.com">MATCOMP25 · Barcelona</a></h3><p>Contribuciones sobre pandeo biaxial, flexión/torsión parásitas en ensayos normalizados de tracción e iniciación/propagación de grietas a microescala.</p></div>
+<div class="timeline-item"><div class="event-meta">2025</div><h3><a href="https://www.s4industry.eu/">Science for Industry (S4i)</a></h3><p>Presentación/participación de transferencia de Ayman Berrem Khalid en torno al dispositivo biaxial y la colaboración universidad–industria.</p></div>
+<div class="timeline-item"><div class="event-meta">2025</div><h3><a href="https://innocam.castillalamancha.es/presentacion-transformaclm-2025">TransformaCLM 2025</a></h3><p>Participación de Ayman Berrem Khalid en la feria regional de transferencia, conectando los desarrollos del proyecto con innovación e industria.</p></div>
+<div class="timeline-item"><div class="event-meta">2026</div><h3><a href="https://www.ntnu.edu/eccm22/">ECCM22 · Oslo</a></h3><p>Tres contribuciones UCLM: desviación del estado ideal de cortadura, crecimiento de grietas a microescala y dispositivo biaxial tracción–compresión para máquinas uniaxiales.</p></div>
+</div>
+```
+## Transferencia tecnológica
+
+```{=html}
+<div class="media-row"><div class="media-image"><img src="../assets/photos/utility-model-U202532647.png" alt="Solicitud de modelo de utilidad U202532647"></div><div><span class="tag">Solicitud de modelo de utilidad</span><h3>Dispositivo para realizar ensayos biaxiales de tracción-compresión en una máquina uniaxial</h3><p>Solicitud nacional de modelo de utilidad <strong>U202532647</strong>, recibida el 30 de diciembre de 2025. Solicitante: Universidad de Castilla-La Mancha. Inventores: María del Carmen Serna Moreno, Sergio Horta Muñoz, Ayman Berrem Khalid y Claudia Llario Alegre. La solicitud se encuentra en tramitación.</p></div></div>
+```
+
+## Normalización
+
+CORA continúa la línea iniciada con la **UNE 0074:2023** y aporta validación experimental y desarrollo técnico para avanzar hacia una norma completa. La metodología recomendada y su base técnica se resumen en la [publicación asociada](https://www.scipedia.com/public/Serna_Moreno_et_al_2024a).

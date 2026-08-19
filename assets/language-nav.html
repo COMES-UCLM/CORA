@@ -1,0 +1,12 @@
+<script>
+document.addEventListener('DOMContentLoaded', function(){
+ const path=window.location.pathname.replace(/\\/g,'/');
+ const isEs=path.includes('/es/');
+ const map={
+  'index.html':'index.html','project.html':'project.html','work-packages.html':'work-packages.html','results.html':'results.html','dissemination.html':'dissemination.html','team.html':'team.html','impact.html':'impact.html'
+ };
+ const file=(path.split('/').pop()||'index.html').replace('.qmd','.html');
+ const target=map[file]||'index.html';
+ document.querySelectorAll('.lang-toggle').forEach(a=>{a.href=isEs?'../'+target:'es/'+target;});
+});
+</script>

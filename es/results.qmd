@@ -1,0 +1,39 @@
+---
+title: "Resultados y publicaciones"
+lang: es
+toc: true
+---
+
+```{=html}
+<p class="section-intro">Resultados científicos, de normalización y de transferencia obtenidos dentro de la línea de CORA. Varios resultados son compartidos con RENO y BISHEAR; se incluyen cuando contribuyen directamente a los objetivos de CORA sobre caracterización a cortadura, comparación de ensayos, accesibilidad y normalización.</p>
+```
+
+## Publicaciones principales
+
+```{=html}
+<div class="pub-grid">
+<article class="pub-card"><span class="tag">Artículo científico · 2026</span><h3>Comparison of the in-plane shear response of a FRP obtained by biaxial tension-compression test and standard methods</h3><p>M.C. Serna Moreno · S. Horta Muñoz · J. García-Delgado</p><p class="pub-meta">Composites Science and Technology 276 (2026) 111519</p><p><a href="https://doi.org/10.1016/j.compscitech.2026.111519">Abrir publicación →</a></p></article>
+
+<article class="pub-card"><span class="tag">Identificación inversa · 2026</span><h3>Full-field elastic solution reconstruction of mechanical tests using a physics-based inverse method</h3><p>J.A. Sanz-Herrera · M.C. Serna Moreno · S. Horta Muñoz · R. Chamorro</p><p class="pub-meta">Composite Structures 387 (2026) 120278</p><p><a href="https://www.scopus.com/pages/publications/105035385857?origin=resultslist">Abrir registro en Scopus →</a></p></article>
+
+<article class="pub-card"><span class="tag">Normalización · 2025</span><h3>Recommended methodology in Specification UNE 0074:2023 to determine shear properties by means of the biaxial tension-compression test with a cruciform specimen</h3><p>M.C. Serna Moreno · S. Horta Muñoz · J.J. López Cela</p><p class="pub-meta">Revista de Materiales Compuestos (2025)</p><p><a href="https://www.scipedia.com/public/Serna_Moreno_et_al_2024a">Abrir publicación →</a></p></article>
+
+<article class="pub-card"><span class="tag">Estabilidad biaxial · 2026</span><h3>Buckling analysis of laminates subjected to biaxial loads using cruciform specimens</h3><p>M.C. Serna Moreno · S. Horta Muñoz</p><p class="pub-meta">Materiales Compuestos 9 (2026)</p><p><a href="https://www.scipedia.com/public/Serna_Moreno_Horta_Munoz_2025a">Abrir publicación →</a></p></article>
+</div>
+```
+
+## UNE 0074:2023 · resultado destacado de normalización
+
+```{=html}
+<div class="media-row"><div class="media-image"><img src="../assets/photos/une-biaxial.jpg" alt="Ensayo biaxial tracción-compresión según UNE 0074:2023"></div><div><span class="tag">Normalización</span><h3>UNE 0074:2023</h3><p>La especificación define el método de ensayo de cortadura basado en carga biaxial tracción–compresión sobre probetas cruciformes. CORA toma este pre-estándar como punto de partida técnico para su validación, la comparación con métodos de cortadura consolidados y el desarrollo posterior hacia una normalización completa.</p><p><a href="https://www.scipedia.com/public/Serna_Moreno_et_al_2024a">Artículo sobre la metodología recomendada →</a></p><p><a href="https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma?c=N0071374">Registro oficial de UNE →</a></p></div></div>
+```
+
+## Infraestructura y resultados transferibles
+
+```{=html}
+<div class="media-row"><div class="media-image"><img src="../assets/photos/servosis-wide.jpg" alt="Máquina biaxial Servosis"></div><div><h3>Nueva capacidad de ensayo biaxial con cuatro actuadores</h3><p>CORA permitió adquirir la nueva máquina de ensayos biaxial Servosis con cuatro actuadores sincronizados y cuatro células de carga independientes, reforzando la capacidad experimental disponible en INAIA/UCLM.</p></div></div>
+```
+
+```{=html}
+<div class="media-row reverse"><div class="media-image"><img src="../assets/photos/utility-model-U202532647.png" alt="Solicitud de modelo de utilidad U202532647"></div><div><span class="tag">Transferencia</span><h3>Solicitud de modelo de utilidad U202532647</h3><p><strong>Título:</strong> Dispositivo para realizar ensayos biaxiales de tracción-compresión en una máquina uniaxial.</p><p><strong>Solicitante:</strong> Universidad de Castilla-La Mancha.</p><p><strong>Inventores:</strong> María del Carmen Serna Moreno, Sergio Horta Muñoz, Ayman Berrem Khalid y Claudia Llario Alegre.</p><p><strong>Fecha de recepción:</strong> 30 de diciembre de 2025. La solicitud se encuentra en tramitación y no se presenta como un derecho concedido.</p></div></div>
+```

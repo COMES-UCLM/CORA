@@ -1,0 +1,436 @@
+[
+  {
+    "objectID": "work-packages.html",
+    "href": "work-packages.html",
+    "title": "Work packages",
+    "section": "",
+    "text": "Work structure defined in the scientific project memorandum."
+  },
+  {
+    "objectID": "work-packages.html#methods-and-tools",
+    "href": "work-packages.html#methods-and-tools",
+    "title": "Work packages",
+    "section": "Methods and tools",
+    "text": "Methods and tools\nExperimental mechanicsQuasi-static tests, cruciform specimens, strain gauges and Digital Image Correlation for full-field displacement and strain measurement.Numerical modellingABAQUS/FEM, mesoscale progressive-damage models, micromechanics, homogenization, cohesive interfaces and XFEM."
+  },
+  {
+    "objectID": "VALIDATION_v0.2.html",
+    "href": "VALIDATION_v0.2.html",
+    "title": "Validation v0.2",
+    "section": "",
+    "text": "Validation v0.2\n\n_quarto.yml parsed as valid YAML.\nUnsupported navbar:right:attributes removed.\nEvery .qmd was passed through Pandoc 3.1.11.1 and checked for escaped custom HTML blocks.\nEnglish remains the main language; Spanish version retained.\n\nFinal quarto preview / quarto render should be executed with the local Quarto installation."
+  },
+  {
+    "objectID": "results.html",
+    "href": "results.html",
+    "title": "Results & publications",
+    "section": "",
+    "text": "Scientific, standardisation and technology-transfer outputs obtained within the CORA research line. Several results are shared with RENO and BISHEAR; they are included when they directly contribute to CORA objectives on shear characterisation, test comparison, accessibility and standardisation."
+  },
+  {
+    "objectID": "results.html#key-publications",
+    "href": "results.html#key-publications",
+    "title": "Results & publications",
+    "section": "Key publications",
+    "text": "Key publications\n\nJournal article · 2026Comparison of the in-plane shear response of a FRP obtained by biaxial tension-compression test and standard methodsM.C. Serna Moreno · S. Horta Muñoz · J. García-DelgadoComposites Science and Technology 276 (2026) 111519Open publication →\n\nInverse identification · 2026Full-field elastic solution reconstruction of mechanical tests using a physics-based inverse methodJ.A. Sanz-Herrera · M.C. Serna Moreno · S. Horta Muñoz · R. ChamorroComposite Structures 387 (2026) 120278Open Scopus record →\n\nStandardisation · 2025Recommended methodology in Specification UNE 0074:2023 to determine shear properties by means of the biaxial tension-compression test with a cruciform specimenM.C. Serna Moreno · S. Horta Muñoz · J.J. López CelaRevista de Materiales Compuestos (2025)Open publication →\n\nBiaxial stability · 2026Buckling analysis of laminates subjected to biaxial loads using cruciform specimensM.C. Serna Moreno · S. Horta MuñozMateriales Compuestos 9 (2026)Open publication →"
+  },
+  {
+    "objectID": "results.html#une-00742023-highlighted-standardisation-result",
+    "href": "results.html#une-00742023-highlighted-standardisation-result",
+    "title": "Results & publications",
+    "section": "UNE 0074:2023 · highlighted standardisation result",
+    "text": "UNE 0074:2023 · highlighted standardisation result\nStandardisationUNE 0074:2023The specification defines the shear test method based on biaxial tension–compression loading of cruciform specimens. CORA uses this pre-standard as a technical starting point for validation, comparison with established shear methods and further development toward complete standardisation.Read the paper describing the recommended methodology →Official UNE record →"
+  },
+  {
+    "objectID": "results.html#infrastructure-and-transferable-results",
+    "href": "results.html#infrastructure-and-transferable-results",
+    "title": "Results & publications",
+    "section": "Infrastructure and transferable results",
+    "text": "Infrastructure and transferable results\nNew four-actuator biaxial testing capabilityCORA enabled the acquisition of the new Servosis biaxial testing machine with four synchronized actuators and four independent load cells, strengthening the experimental capacity available at INAIA/UCLM.\nTechnology transferUtility model application U202532647Title: Device for performing biaxial tension-compression tests on a uniaxial machine.Applicant: Universidad de Castilla-La Mancha.Inventors: María del Carmen Serna Moreno, Sergio Horta Muñoz, Ayman Berrem Khalid and Claudia Llario Alegre.Filing/receipt date: 30 December 2025. The application is currently under examination and is not presented as a granted right."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "The shear strength of FRPs remains one of the most difficult design properties to determine consistently. CORA advances a test methodology developed in COMMUL/BISHEAR and formalized in UNE 0074:2023, using a biaxial tension–compression (TC) test on symmetric ±45° cruciform laminates.\nThe project seeks to establish repeatability, compare the TC response with common standards, understand the mechanisms behind non-linear shear response and continue the path toward full standardization."
+  },
+  {
+    "objectID": "project.html#research-challenge",
+    "href": "project.html#research-challenge",
+    "title": "Project",
+    "section": "",
+    "text": "The shear strength of FRPs remains one of the most difficult design properties to determine consistently. CORA advances a test methodology developed in COMMUL/BISHEAR and formalized in UNE 0074:2023, using a biaxial tension–compression (TC) test on symmetric ±45° cruciform laminates.\nThe project seeks to establish repeatability, compare the TC response with common standards, understand the mechanisms behind non-linear shear response and continue the path toward full standardization."
+  },
+  {
+    "objectID": "project.html#main-objectives",
+    "href": "project.html#main-objectives",
+    "title": "Project",
+    "section": "Main objectives",
+    "text": "Main objectives\nAccessibility & repeatabilityDevelop a fixture for TC tests in uniaxial machines and verify repeatability across different testing systems.Comparison with standardsContrast TC results against ±45° tension, Iosipescu and V-notched rail shear methods, with particular emphasis on large-strain response and shear strength.Numerical interpretationUse progressive damage and micro-scale models to connect apparent response, microdamage, matrix plasticity and fibre reorientation.StandardizationValidate UNE 0074:2023 and generate the technical basis required to progress toward a complete standard."
+  },
+  {
+    "objectID": "project.html#research-continuity",
+    "href": "project.html#research-continuity",
+    "title": "Project",
+    "section": "Research continuity",
+    "text": "Research continuity\nThe research sits within the COMES line on experimental and numerical characterization of composite materials, with continuity from COMMUL and BISHEAR and direct connections with RENO/CORA.\nTC test with cruciform specimenEqual-magnitude tension–compression loading of symmetric ±45° laminates enables the shear response in principal material directions to be studied while keeping the region of interest away from the grips.UNE 0074:2023 →"
+  },
+  {
+    "objectID": "impact.html",
+    "href": "impact.html",
+    "title": "Funding & impact",
+    "section": "",
+    "text": "Regional research project supported by the Junta de Comunidades de Castilla-La Mancha / INNOCAM and co-funded by the European Regional Development Fund (ERDF/FEDER)."
+  },
+  {
+    "objectID": "impact.html#funding-bodies-call",
+    "href": "impact.html#funding-bodies-call",
+    "title": "Funding & impact",
+    "section": "",
+    "text": "Regional research project supported by the Junta de Comunidades de Castilla-La Mancha / INNOCAM and co-funded by the European Regional Development Fund (ERDF/FEDER)."
+  },
+  {
+    "objectID": "impact.html#expected-impact",
+    "href": "impact.html#expected-impact",
+    "title": "Funding & impact",
+    "section": "Expected impact",
+    "text": "Expected impact\nBetter design dataA more trustworthy non-linear pure-shear curve and shear strength improve analytical and finite-element predictions.StandardizationExperimental evidence supports the validation and evolution of UNE 0074:2023 and its broader adoption.Accessible testingThe uniaxial-machine fixture lowers an important equipment barrier to biaxial TC testing.Regional capabilityNew biaxial infrastructure at INAIA strengthens testing, training and collaboration capacity in Castilla-La Mancha.\nFrom testing to designThe common thread is to reduce experimental uncertainty and turn it into more reliable properties for design, predictive simulation, standardization and transfer."
+  },
+  {
+    "objectID": "impact.html#institutions",
+    "href": "impact.html#institutions",
+    "title": "Funding & impact",
+    "section": "Institutions",
+    "text": "Institutions"
+  },
+  {
+    "objectID": "es/work-packages.html",
+    "href": "es/work-packages.html",
+    "title": "Paquetes de trabajo",
+    "section": "",
+    "text": "Estructura de trabajo definida en la memoria científica del proyecto."
+  },
+  {
+    "objectID": "es/work-packages.html#métodos-y-herramientas",
+    "href": "es/work-packages.html#métodos-y-herramientas",
+    "title": "Paquetes de trabajo",
+    "section": "Métodos y herramientas",
+    "text": "Métodos y herramientas\nExperimental mechanicsEnsayos cuasi-estáticos, probetas cruciformes, extensometría y correlación digital de imagen para medir campos completos de desplazamiento y deformación.Modelado numéricoABAQUS/FEM, modelos mesoescala de daño progresivo, micromecánica, homogeneización, interfaces cohesivas y XFEM."
+  },
+  {
+    "objectID": "es/results.html",
+    "href": "es/results.html",
+    "title": "Resultados y publicaciones",
+    "section": "",
+    "text": "Resultados científicos, de normalización y de transferencia obtenidos dentro de la línea de CORA. Varios resultados son compartidos con RENO y BISHEAR; se incluyen cuando contribuyen directamente a los objetivos de CORA sobre caracterización a cortadura, comparación de ensayos, accesibilidad y normalización."
+  },
+  {
+    "objectID": "es/results.html#publicaciones-principales",
+    "href": "es/results.html#publicaciones-principales",
+    "title": "Resultados y publicaciones",
+    "section": "Publicaciones principales",
+    "text": "Publicaciones principales\n\nArtículo científico · 2026Comparison of the in-plane shear response of a FRP obtained by biaxial tension-compression test and standard methodsM.C. Serna Moreno · S. Horta Muñoz · J. García-DelgadoComposites Science and Technology 276 (2026) 111519Abrir publicación →\n\nIdentificación inversa · 2026Full-field elastic solution reconstruction of mechanical tests using a physics-based inverse methodJ.A. Sanz-Herrera · M.C. Serna Moreno · S. Horta Muñoz · R. ChamorroComposite Structures 387 (2026) 120278Abrir registro en Scopus →\n\nNormalización · 2025Recommended methodology in Specification UNE 0074:2023 to determine shear properties by means of the biaxial tension-compression test with a cruciform specimenM.C. Serna Moreno · S. Horta Muñoz · J.J. López CelaRevista de Materiales Compuestos (2025)Abrir publicación →\n\nEstabilidad biaxial · 2026Buckling analysis of laminates subjected to biaxial loads using cruciform specimensM.C. Serna Moreno · S. Horta MuñozMateriales Compuestos 9 (2026)Abrir publicación →"
+  },
+  {
+    "objectID": "es/results.html#une-00742023-resultado-destacado-de-normalización",
+    "href": "es/results.html#une-00742023-resultado-destacado-de-normalización",
+    "title": "Resultados y publicaciones",
+    "section": "UNE 0074:2023 · resultado destacado de normalización",
+    "text": "UNE 0074:2023 · resultado destacado de normalización\nNormalizaciónUNE 0074:2023La especificación define el método de ensayo de cortadura basado en carga biaxial tracción–compresión sobre probetas cruciformes. CORA toma este pre-estándar como punto de partida técnico para su validación, la comparación con métodos de cortadura consolidados y el desarrollo posterior hacia una normalización completa.Artículo sobre la metodología recomendada →Registro oficial de UNE →"
+  },
+  {
+    "objectID": "es/results.html#infraestructura-y-resultados-transferibles",
+    "href": "es/results.html#infraestructura-y-resultados-transferibles",
+    "title": "Resultados y publicaciones",
+    "section": "Infraestructura y resultados transferibles",
+    "text": "Infraestructura y resultados transferibles\nNueva capacidad de ensayo biaxial con cuatro actuadoresCORA permitió adquirir la nueva máquina de ensayos biaxial Servosis con cuatro actuadores sincronizados y cuatro células de carga independientes, reforzando la capacidad experimental disponible en INAIA/UCLM.\nTransferenciaSolicitud de modelo de utilidad U202532647Título: Dispositivo para realizar ensayos biaxiales de tracción-compresión en una máquina uniaxial.Solicitante: Universidad de Castilla-La Mancha.Inventores: María del Carmen Serna Moreno, Sergio Horta Muñoz, Ayman Berrem Khalid y Claudia Llario Alegre.Fecha de recepción: 30 de diciembre de 2025. La solicitud se encuentra en tramitación y no se presenta como un derecho concedido."
+  },
+  {
+    "objectID": "es/index.html",
+    "href": "es/index.html",
+    "title": "CORA",
+    "section": "",
+    "text": "COMES · UCLM · INAIACORA se centra en la determinación fiable de la respuesta a cortadura pura en el plano de laminados FRP de pequeño espesor, combinando el ensayo biaxial tracción–compresión, métodos normalizados, medidas de campo completo y modelado numérico multiescala.Proyecto regional de investigación financiado · en ejecuciónConocer el proyectoResultados"
+  },
+  {
+    "objectID": "es/index.html#del-método-de-ensayo-a-una-capacidad-transferible",
+    "href": "es/index.html#del-método-de-ensayo-a-una-capacidad-transferible",
+    "title": "CORA",
+    "section": "Del método de ensayo a una capacidad transferible",
+    "text": "Del método de ensayo a una capacidad transferible\nCORA combina una comparación experimental rigurosa de métodos de cortadura con interpretación numérica, normalización y nuevo equipamiento. El objetivo no es solo publicar resultados, sino dejar un procedimiento repetible, un dispositivo transferible y una infraestructura biaxial reforzada."
+  },
+  {
+    "objectID": "es/index.html#entidades-e-infraestructura",
+    "href": "es/index.html#entidades-e-infraestructura",
+    "title": "CORA",
+    "section": "Entidades e infraestructura",
+    "text": "Entidades e infraestructura"
+  },
+  {
+    "objectID": "es/index.html#financiación",
+    "href": "es/index.html#financiación",
+    "title": "CORA",
+    "section": "Financiación",
+    "text": "Financiación\n\n\n\n\n\nProyecto regional apoyado por la Junta de Comunidades de Castilla-La Mancha / INNOCAM y cofinanciado por el Fondo Europeo de Desarrollo Regional (FEDER)."
+  },
+  {
+    "objectID": "es/index.html#resultados-destacados",
+    "href": "es/index.html#resultados-destacados",
+    "title": "CORA",
+    "section": "Resultados destacados",
+    "text": "Resultados destacados\n\nResearch outputComparison of the in-plane shear response of a FRP obtained by biaxial tension-compression test and standard methodsM.C. Serna Moreno · S. Horta Muñoz · J. García-DelgadoComposites Science and Technology 276 (2026) 111519Open publication / record →\nResearch outputRecommended methodology in Specification UNE 0074:2023 to determine shear properties by means of the biaxial tension-compression test with a cruciform specimenM.C. Serna Moreno · S. Horta Muñoz · J.J. López CelaRevista de Materiales Compuestos (2025)Open publication / record →\nResearch outputBuckling analysis of laminates subjected to biaxial loads using cruciform specimensM.C. Serna Moreno · S. Horta MuñozMateriales Compuestos 9 (2026), MATCOMP25 communicationsOpen publication / record →"
+  },
+  {
+    "objectID": "es/dissemination.html",
+    "href": "es/dissemination.html",
+    "title": "Difusión y transferencia",
+    "section": "",
+    "text": "Selección de congresos, webinars y foros de transferencia especialmente ligados a la línea de investigación."
+  },
+  {
+    "objectID": "es/dissemination.html#transferencia-tecnológica",
+    "href": "es/dissemination.html#transferencia-tecnológica",
+    "title": "Difusión y transferencia",
+    "section": "Transferencia tecnológica",
+    "text": "Transferencia tecnológica\nSolicitud de modelo de utilidadDispositivo para realizar ensayos biaxiales de tracción-compresión en una máquina uniaxialSolicitud nacional de modelo de utilidad U202532647, recibida el 30 de diciembre de 2025. Solicitante: Universidad de Castilla-La Mancha. Inventores: María del Carmen Serna Moreno, Sergio Horta Muñoz, Ayman Berrem Khalid y Claudia Llario Alegre. La solicitud se encuentra en tramitación."
+  },
+  {
+    "objectID": "es/dissemination.html#normalización",
+    "href": "es/dissemination.html#normalización",
+    "title": "Difusión y transferencia",
+    "section": "Normalización",
+    "text": "Normalización\nCORA continúa la línea iniciada con la UNE 0074:2023 y aporta validación experimental y desarrollo técnico para avanzar hacia una norma completa. La metodología recomendada y su base técnica se resumen en la publicación asociada."
+  },
+  {
+    "objectID": "CHANGELOG_v0.3.html",
+    "href": "CHANGELOG_v0.3.html",
+    "title": "v0.3 updates",
+    "section": "",
+    "text": "v0.3 updates\n\nCorrected event links for MATCOMP25, Science for Industry (S4i), TransformaCLM 2025 and ECCM22.\nAdded the 2026 Composite Structures paper on full-field elastic solution reconstruction.\nReinforced UNE 0074:2023 as a highlighted standardisation result and linked the dedicated publication.\nAdded utility-model application U202532647, including title, filing date, applicant and inventors.\nAdded the application confirmation image supplied by the user.\nUpdated both English and Spanish pages."
+  },
+  {
+    "objectID": "CHANGELOG_v0.2.html",
+    "href": "CHANGELOG_v0.2.html",
+    "title": "v0.2 fixes",
+    "section": "",
+    "text": "v0.2 fixes\n\nRemoved unsupported attributes: from navbar items in _quarto.yml; language styling remains handled by the existing JavaScript helper.\nWrapped all custom HTML in explicit raw HTML blocks so nested cards, logos and project hero sections render as HTML rather than code.\nSpanish version retained; English remains the main language."
+  },
+  {
+    "objectID": "dissemination.html",
+    "href": "dissemination.html",
+    "title": "Dissemination & transfer",
+    "section": "",
+    "text": "Selected conferences, webinars and transfer forums closely linked to the research line."
+  },
+  {
+    "objectID": "dissemination.html#technology-transfer",
+    "href": "dissemination.html#technology-transfer",
+    "title": "Dissemination & transfer",
+    "section": "Technology transfer",
+    "text": "Technology transfer\nUtility model applicationDevice for performing biaxial tension-compression tests on a uniaxial machineNational utility-model application U202532647, received on 30 December 2025. Applicant: Universidad de Castilla-La Mancha. Inventors: María del Carmen Serna Moreno, Sergio Horta Muñoz, Ayman Berrem Khalid and Claudia Llario Alegre. The application is under examination."
+  },
+  {
+    "objectID": "dissemination.html#standardization",
+    "href": "dissemination.html#standardization",
+    "title": "Dissemination & transfer",
+    "section": "Standardization",
+    "text": "Standardization\nCORA continues the line initiated with UNE 0074:2023 and provides experimental validation and technical development toward a complete standard. The recommended methodology and its technical basis are summarised in the associated publication."
+  },
+  {
+    "objectID": "es/impact.html",
+    "href": "es/impact.html",
+    "title": "Financiación e impacto",
+    "section": "",
+    "text": "Proyecto regional apoyado por la Junta de Comunidades de Castilla-La Mancha / INNOCAM y cofinanciado por el Fondo Europeo de Desarrollo Regional (FEDER)."
+  },
+  {
+    "objectID": "es/impact.html#entidades-financiadoras-convocatoria",
+    "href": "es/impact.html#entidades-financiadoras-convocatoria",
+    "title": "Financiación e impacto",
+    "section": "",
+    "text": "Proyecto regional apoyado por la Junta de Comunidades de Castilla-La Mancha / INNOCAM y cofinanciado por el Fondo Europeo de Desarrollo Regional (FEDER)."
+  },
+  {
+    "objectID": "es/impact.html#impacto-esperado",
+    "href": "es/impact.html#impacto-esperado",
+    "title": "Financiación e impacto",
+    "section": "Impacto esperado",
+    "text": "Impacto esperado\nMejores datos de diseñoUna curva no lineal a cortadura pura y una resistencia más fiables mejoran las predicciones analíticas y por elementos finitos.NormalizaciónLa evidencia experimental apoya la validación y evolución de la UNE 0074:2023 y su adopción más amplia.Ensayo accesibleEl dispositivo para máquina uniaxial reduce una importante barrera de equipamiento para el ensayo TC.Capacidad regionalLa nueva infraestructura biaxial en INAIA refuerza las capacidades de ensayo, formación y colaboración en Castilla-La Mancha.\nDel ensayo al diseñoEl hilo común de la línea es reducir incertidumbre experimental y convertirla en propiedades más fiables para diseño, simulación predictiva, normalización y transferencia."
+  },
+  {
+    "objectID": "es/impact.html#instituciones",
+    "href": "es/impact.html#instituciones",
+    "title": "Financiación e impacto",
+    "section": "Instituciones",
+    "text": "Instituciones"
+  },
+  {
+    "objectID": "es/project.html",
+    "href": "es/project.html",
+    "title": "Proyecto",
+    "section": "",
+    "text": "La resistencia a cortadura de los FRPs sigue siendo una de las propiedades de diseño más difíciles de determinar de forma consistente. CORA avanza en una metodología desarrollada en COMMUL/BISHEAR y formalizada en la UNE 0074:2023, basada en un ensayo biaxial tracción–compresión (TC) sobre probetas cruciformes con laminados ±45° simétricos.\nEl proyecto busca establecer su repetitividad, comparar la respuesta TC con normas habituales, comprender los mecanismos de la respuesta no lineal a cortadura y continuar el camino hacia la normalización completa."
+  },
+  {
+    "objectID": "es/project.html#reto-de-investigación",
+    "href": "es/project.html#reto-de-investigación",
+    "title": "Proyecto",
+    "section": "",
+    "text": "La resistencia a cortadura de los FRPs sigue siendo una de las propiedades de diseño más difíciles de determinar de forma consistente. CORA avanza en una metodología desarrollada en COMMUL/BISHEAR y formalizada en la UNE 0074:2023, basada en un ensayo biaxial tracción–compresión (TC) sobre probetas cruciformes con laminados ±45° simétricos.\nEl proyecto busca establecer su repetitividad, comparar la respuesta TC con normas habituales, comprender los mecanismos de la respuesta no lineal a cortadura y continuar el camino hacia la normalización completa."
+  },
+  {
+    "objectID": "es/project.html#objetivos-principales",
+    "href": "es/project.html#objetivos-principales",
+    "title": "Proyecto",
+    "section": "Objetivos principales",
+    "text": "Objetivos principales\nAccesibilidad y repetitividadDesarrollar un dispositivo para ensayos TC en máquinas uniaxiales y verificar la repetitividad en distintos sistemas de ensayo.Comparación con normasContrastar TC frente a tracción ±45°, Iosipescu y V-notched rail shear, con especial atención a grandes deformaciones y resistencia a cortadura.Interpretación numéricaUsar modelos de daño progresivo y microescala para conectar respuesta aparente, microdaño, plastificación de matriz y reorientación de fibras.NormalizaciónValidar la UNE 0074:2023 y generar la base técnica necesaria para avanzar hacia una norma completa."
+  },
+  {
+    "objectID": "es/project.html#contexto-y-continuidad",
+    "href": "es/project.html#contexto-y-continuidad",
+    "title": "Proyecto",
+    "section": "Contexto y continuidad",
+    "text": "Contexto y continuidad\nLa investigación se desarrolla dentro de la línea de COMES sobre caracterización experimental y numérica de materiales compuestos, con continuidad desde COMMUL y BISHEAR y conexiones directas con RENO/CORA.\nEnsayo TC con probeta cruciformeEl estado tracción–compresión de igual magnitud aplicado a laminados ±45° simétricos permite estudiar la respuesta a cortadura en las direcciones principales del material, manteniendo la región de interés alejada de las zonas de agarre.UNE 0074:2023 →"
+  },
+  {
+    "objectID": "es/team.html",
+    "href": "es/team.html",
+    "title": "Equipo",
+    "section": "",
+    "text": "Investigador/a principalUCLM · COMES / EIIA-To / INAIA. Mecánica experimental, ensayos biaxiales y caracterización de materiales compuestos.Investigador/a principalUCLM · COMES. Mecánica de medios continuos, modelado computacional y mecánica estructural.Equipo de investigaciónUCLM · COMES / EIIA-To / INAIA. Ensayos multiaxiales, daño progresivo y modelado micromecánico.Equipo de investigaciónUniversity of Sheffield · mecánica computacional, fractura y daño de estructuras de material compuesto.Investigador vinculado a la líneaUCLM · COMES / INAIA. Desarrollo de utillaje, ensayos biaxiales, DIC y actividades de transferencia tecnológica."
+  },
+  {
+    "objectID": "es/team.html#entidades-vinculadas",
+    "href": "es/team.html#entidades-vinculadas",
+    "title": "Equipo",
+    "section": "Entidades vinculadas",
+    "text": "Entidades vinculadas"
+  },
+  {
+    "objectID": "GUIA_PUBLICACION_GITHUB.html",
+    "href": "GUIA_PUBLICACION_GITHUB.html",
+    "title": "Publicación de las webs Quarto en GitHub Pages",
+    "section": "",
+    "text": "Web personal: repositorio TU_USUARIO.github.io en tu cuenta personal.\nRENO: repositorio público reno en la organización comes-uclm.\nCORA: repositorio público cora en la organización comes-uclm.\nCARLA: repositorio carla cuando se decida publicarlo; mientras tanto puede mantenerse local/privado.\nBISHEAR: no modificar el repositorio existente que sirve https://comes-uclm.github.io/.\n\nLos archivos fuente (.qmd, _quarto.yml, styles.css, assets/, etc.) se guardan en la rama main. La carpeta _site/ NO se sube: Quarto la vuelve a generar. quarto publish gh-pages crea y actualiza la rama gh-pages con el HTML renderizado.\n\n\n\n\nCrear en GitHub un repositorio vacío y público. No añadir README, licencia ni .gitignore desde la web.\nAbrir Git Bash o Terminal en la carpeta del proyecto.\nEjecutar:\n\ngit init\ngit branch -M main\ngit add .\ngit commit -m \"Initial Quarto website\"\ngit remote add origin https://github.com/OWNER/REPOSITORY.git\ngit push -u origin main\n\nPublicar:\n\nquarto publish gh-pages\nEn los sitios de proyecto (comes-uclm.github.io/reno/, etc.), GitHub suele detectar automáticamente la rama gh-pages. Si no lo hace: Repository &gt; Settings &gt; Pages &gt; Source: Deploy from a branch &gt; Branch: gh-pages &gt; / (root) &gt; Save.\n\n\n\nDespués de editar y comprobar con quarto preview:\ngit add .\ngit commit -m \"Update website\"\ngit push\nquarto publish gh-pages\nTambién puede ejecutarse PUBLISH_GITHUB_WINDOWS.bat para el último paso.\n\n\n\nEl repositorio debe llamarse exactamente TU_USUARIO.github.io. Tras el primer quarto publish gh-pages, entrar en Settings &gt; Pages y seleccionar manualmente gh-pages como rama de publicación, porque los sitios de usuario/organización usan un comportamiento distinto a los sitios de proyecto."
+  },
+  {
+    "objectID": "GUIA_PUBLICACION_GITHUB.html#estructura-recomendada",
+    "href": "GUIA_PUBLICACION_GITHUB.html#estructura-recomendada",
+    "title": "Publicación de las webs Quarto en GitHub Pages",
+    "section": "",
+    "text": "Web personal: repositorio TU_USUARIO.github.io en tu cuenta personal.\nRENO: repositorio público reno en la organización comes-uclm.\nCORA: repositorio público cora en la organización comes-uclm.\nCARLA: repositorio carla cuando se decida publicarlo; mientras tanto puede mantenerse local/privado.\nBISHEAR: no modificar el repositorio existente que sirve https://comes-uclm.github.io/.\n\nLos archivos fuente (.qmd, _quarto.yml, styles.css, assets/, etc.) se guardan en la rama main. La carpeta _site/ NO se sube: Quarto la vuelve a generar. quarto publish gh-pages crea y actualiza la rama gh-pages con el HTML renderizado."
+  },
+  {
+    "objectID": "GUIA_PUBLICACION_GITHUB.html#primera-publicación-de-un-proyecto",
+    "href": "GUIA_PUBLICACION_GITHUB.html#primera-publicación-de-un-proyecto",
+    "title": "Publicación de las webs Quarto en GitHub Pages",
+    "section": "",
+    "text": "Crear en GitHub un repositorio vacío y público. No añadir README, licencia ni .gitignore desde la web.\nAbrir Git Bash o Terminal en la carpeta del proyecto.\nEjecutar:\n\ngit init\ngit branch -M main\ngit add .\ngit commit -m \"Initial Quarto website\"\ngit remote add origin https://github.com/OWNER/REPOSITORY.git\ngit push -u origin main\n\nPublicar:\n\nquarto publish gh-pages\nEn los sitios de proyecto (comes-uclm.github.io/reno/, etc.), GitHub suele detectar automáticamente la rama gh-pages. Si no lo hace: Repository &gt; Settings &gt; Pages &gt; Source: Deploy from a branch &gt; Branch: gh-pages &gt; / (root) &gt; Save."
+  },
+  {
+    "objectID": "GUIA_PUBLICACION_GITHUB.html#actualizaciones-posteriores",
+    "href": "GUIA_PUBLICACION_GITHUB.html#actualizaciones-posteriores",
+    "title": "Publicación de las webs Quarto en GitHub Pages",
+    "section": "",
+    "text": "Después de editar y comprobar con quarto preview:\ngit add .\ngit commit -m \"Update website\"\ngit push\nquarto publish gh-pages\nTambién puede ejecutarse PUBLISH_GITHUB_WINDOWS.bat para el último paso."
+  },
+  {
+    "objectID": "GUIA_PUBLICACION_GITHUB.html#web-personal",
+    "href": "GUIA_PUBLICACION_GITHUB.html#web-personal",
+    "title": "Publicación de las webs Quarto en GitHub Pages",
+    "section": "",
+    "text": "El repositorio debe llamarse exactamente TU_USUARIO.github.io. Tras el primer quarto publish gh-pages, entrar en Settings &gt; Pages y seleccionar manualmente gh-pages como rama de publicación, porque los sitios de usuario/organización usan un comportamiento distinto a los sitios de proyecto."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CORA",
+    "section": "",
+    "text": "COMES · UCLM · INAIACORA focuses on reliable determination of the in-plane pure shear response of thin FRP laminates, combining biaxial tension–compression testing, standard shear methods, full-field measurements and multi-scale numerical modelling.Funded regional research project · ongoingExplore the projectResults"
+  },
+  {
+    "objectID": "index.html#from-test-method-to-transferable-capability",
+    "href": "index.html#from-test-method-to-transferable-capability",
+    "title": "CORA",
+    "section": "From test method to transferable capability",
+    "text": "From test method to transferable capability\nCORA combines a rigorous experimental comparison of shear methods with numerical interpretation, standardization and new equipment. The objective is not only to publish results, but to leave a repeatable test procedure, transferable fixture and stronger biaxial-testing infrastructure."
+  },
+  {
+    "objectID": "index.html#institutions-and-research-infrastructure",
+    "href": "index.html#institutions-and-research-infrastructure",
+    "title": "CORA",
+    "section": "Institutions and research infrastructure",
+    "text": "Institutions and research infrastructure"
+  },
+  {
+    "objectID": "index.html#funding",
+    "href": "index.html#funding",
+    "title": "CORA",
+    "section": "Funding",
+    "text": "Funding\n\n\n\n\n\nRegional research project supported by the Junta de Comunidades de Castilla-La Mancha / INNOCAM and co-funded by the European Regional Development Fund (ERDF/FEDER)."
+  },
+  {
+    "objectID": "index.html#featured-outputs",
+    "href": "index.html#featured-outputs",
+    "title": "CORA",
+    "section": "Featured outputs",
+    "text": "Featured outputs\n\nResearch outputComparison of the in-plane shear response of a FRP obtained by biaxial tension-compression test and standard methodsM.C. Serna Moreno · S. Horta Muñoz · J. García-DelgadoComposites Science and Technology 276 (2026) 111519Open publication / record →\nResearch outputRecommended methodology in Specification UNE 0074:2023 to determine shear properties by means of the biaxial tension-compression test with a cruciform specimenM.C. Serna Moreno · S. Horta Muñoz · J.J. López CelaRevista de Materiales Compuestos (2025)Open publication / record →\nResearch outputBuckling analysis of laminates subjected to biaxial loads using cruciform specimensM.C. Serna Moreno · S. Horta MuñozMateriales Compuestos 9 (2026), MATCOMP25 communicationsOpen publication / record →"
+  },
+  {
+    "objectID": "README_FIRST.html",
+    "href": "README_FIRST.html",
+    "title": "CORA project website · Quarto",
+    "section": "",
+    "text": "English is the main language and es/ contains the Spanish version.\n\n\nWindows: double-click PREVIEW_WINDOWS.bat.\nCommand line: quarto preview\n\n\n\nWindows: RENDER_WINDOWS.bat, or quarto render.\n\n\n\nRecommended repository: comes-uclm/cora Expected Pages URL: https://comes-uclm.github.io/cora/\n\n\n\nFunded regional research project · ongoing"
+  },
+  {
+    "objectID": "README_FIRST.html#local-preview",
+    "href": "README_FIRST.html#local-preview",
+    "title": "CORA project website · Quarto",
+    "section": "",
+    "text": "Windows: double-click PREVIEW_WINDOWS.bat.\nCommand line: quarto preview"
+  },
+  {
+    "objectID": "README_FIRST.html#render",
+    "href": "README_FIRST.html#render",
+    "title": "CORA project website · Quarto",
+    "section": "",
+    "text": "Windows: RENDER_WINDOWS.bat, or quarto render."
+  },
+  {
+    "objectID": "README_FIRST.html#target-github-pages-url",
+    "href": "README_FIRST.html#target-github-pages-url",
+    "title": "CORA project website · Quarto",
+    "section": "",
+    "text": "Recommended repository: comes-uclm/cora Expected Pages URL: https://comes-uclm.github.io/cora/"
+  },
+  {
+    "objectID": "README_FIRST.html#important-status-note",
+    "href": "README_FIRST.html#important-status-note",
+    "title": "CORA project website · Quarto",
+    "section": "",
+    "text": "Funded regional research project · ongoing"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Principal InvestigatorUCLM · COMES / EIIA-To / INAIA. Experimental mechanics, biaxial testing and composite characterization.Principal InvestigatorUCLM · COMES. Continuum mechanics, computational modelling and structural mechanics.Research teamUCLM · COMES / EIIA-To / INAIA. Multiaxial testing, progressive damage and micromechanical modelling.Research teamUniversity of Sheffield · computational mechanics, fracture and damage of composite structures.Project line researcherUCLM · COMES / INAIA. Device development, biaxial testing, DIC and technology-transfer activities."
+  },
+  {
+    "objectID": "team.html#affiliated-institutions",
+    "href": "team.html#affiliated-institutions",
+    "title": "Team",
+    "section": "Affiliated institutions",
+    "text": "Affiliated institutions"
+  },
+  {
+    "objectID": "VALIDATION_v0.3.html",
+    "href": "VALIDATION_v0.3.html",
+    "title": "Validation v0.3",
+    "section": "",
+    "text": "Validation v0.3\nValidated in the build environment: - _quarto.yml parses as valid YAML. - all .qmd front matter parses as YAML. - all .qmd files parse successfully with Pandoc. - all local &lt;img src=\"...\"&gt; references resolve to existing files.\nQuarto itself is not installed in the build container, so the final quarto preview should be run locally using PREVIEW_WINDOWS.bat."
+  }
+]

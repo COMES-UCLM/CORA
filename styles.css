@@ -19,3 +19,15 @@ h1,h2,h3,h4{letter-spacing:-.025em}h1{font-weight:850}h2{font-weight:780;margin-
 .section-intro{max-width:920px;color:var(--muted);font-size:1.04rem}.small{font-size:.86rem;color:var(--muted)}
 @media(max-width:900px){.project-hero,.media-row,.media-row.reverse{grid-template-columns:1fr}.media-row.reverse .media-image{order:initial}.fact-grid,.card-grid,.impact-grid,.wp-grid,.pub-grid,.event-grid{grid-template-columns:1fr 1fr}.logo-strip,.funding-strip{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:620px){.fact-grid,.card-grid,.impact-grid,.wp-grid,.pub-grid,.event-grid,.team-grid{grid-template-columns:1fr}.logo-strip,.funding-strip{grid-template-columns:1fr 1fr}.project-hero h1{font-size:3.2rem}.project-hero{padding:1.15rem}}
+
+/* Project visual identity */
+.project-brand-logo{
+  display:block;
+  width:min(470px,100%);
+  max-height:165px;
+  object-fit:contain;
+  object-position:left center;
+  margin:0 0 1rem;
+}
+.navbar-brand img{max-height:36px;width:auto}
+@media(max-width:620px){.project-brand-logo{max-height:125px}}

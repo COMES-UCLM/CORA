@@ -179,7 +179,7 @@
     "href": "es/index.html#resultados-destacados",
     "title": "CORA",
     "section": "Resultados destacados",
-    "text": "Resultados destacados\n\nResearch outputComparison of the in-plane shear response of a FRP obtained by biaxial tension-compression test and standard methodsM.C. Serna Moreno · S. Horta Muñoz · J. García-DelgadoComposites Science and Technology 276 (2026) 111519Open publication / record →\nResearch outputRecommended methodology in Specification UNE 0074:2023 to determine shear properties by means of the biaxial tension-compression test with a cruciform specimenM.C. Serna Moreno · S. Horta Muñoz · J.J. López CelaRevista de Materiales Compuestos (2025)Open publication / record →\nResearch outputBuckling analysis of laminates subjected to biaxial loads using cruciform specimensM.C. Serna Moreno · S. Horta MuñozMateriales Compuestos 9 (2026), MATCOMP25 communicationsOpen publication / record →"
+    "text": "Resultados destacados\n\nResultado científicoComparison of the in-plane shear response of a FRP obtained by biaxial tension-compression test and standard methodsM.C. Serna Moreno · S. Horta Muñoz · J. García-DelgadoComposites Science and Technology 276 (2026) 111519Abrir publicación / registro →\nResultado científicoRecommended methodology in Specification UNE 0074:2023 to determine shear properties by means of the biaxial tension-compression test with a cruciform specimenM.C. Serna Moreno · S. Horta Muñoz · J.J. López CelaRevista de Materiales Compuestos (2025)Abrir publicación / registro →\nResultado científicoBuckling analysis of laminates subjected to biaxial loads using cruciform specimensM.C. Serna Moreno · S. Horta MuñozMateriales Compuestos 9 (2026), MATCOMP25 communicationsAbrir publicación / registro →"
   },
   {
     "objectID": "es/dissemination.html",
@@ -203,11 +203,11 @@
     "text": "Normalización\nCORA continúa la línea iniciada con la UNE 0074:2023 y aporta validación experimental y desarrollo técnico para avanzar hacia una norma completa. La metodología recomendada y su base técnica se resumen en la publicación asociada."
   },
   {
-    "objectID": "CHANGELOG_v0.3.html",
-    "href": "CHANGELOG_v0.3.html",
-    "title": "v0.3 updates",
+    "objectID": "CHANGELOG_v0.5.html",
+    "href": "CHANGELOG_v0.5.html",
+    "title": "Changelog v0.5",
     "section": "",
-    "text": "v0.3 updates\n\nCorrected event links for MATCOMP25, Science for Industry (S4i), TransformaCLM 2025 and ECCM22.\nAdded the 2026 Composite Structures paper on full-field elastic solution reconstruction.\nReinforced UNE 0074:2023 as a highlighted standardisation result and linked the dedicated publication.\nAdded utility-model application U202532647, including title, filing date, applicant and inventors.\nAdded the application confirmation image supplied by the user.\nUpdated both English and Spanish pages."
+    "text": "Changelog v0.5\n\nReplaced COMES logos with the new 2026 identity, using English and Spanish variants.\nAdded the full CORA project logo prominently on the home page.\nAdded the CORA symbol to the navigation bar and as the browser-tab favicon.\nCorrected several untranslated labels on the Spanish pages."
   },
   {
     "objectID": "CHANGELOG_v0.2.html",
@@ -215,6 +215,13 @@
     "title": "v0.2 fixes",
     "section": "",
     "text": "v0.2 fixes\n\nRemoved unsupported attributes: from navbar items in _quarto.yml; language styling remains handled by the existing JavaScript helper.\nWrapped all custom HTML in explicit raw HTML blocks so nested cards, logos and project hero sections render as HTML rather than code.\nSpanish version retained; English remains the main language."
+  },
+  {
+    "objectID": "CHANGELOG_v0.3.html",
+    "href": "CHANGELOG_v0.3.html",
+    "title": "v0.3 updates",
+    "section": "",
+    "text": "v0.3 updates\n\nCorrected event links for MATCOMP25, Science for Industry (S4i), TransformaCLM 2025 and ECCM22.\nAdded the 2026 Composite Structures paper on full-field elastic solution reconstruction.\nReinforced UNE 0074:2023 as a highlighted standardisation result and linked the dedicated publication.\nAdded utility-model application U202532647, including title, filing date, applicant and inventors.\nAdded the application confirmation image supplied by the user.\nUpdated both English and Spanish pages."
   },
   {
     "objectID": "dissemination.html",
